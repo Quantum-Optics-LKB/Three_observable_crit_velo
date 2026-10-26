@@ -1,0 +1,7 @@
+scan,power_mW,sigma_over_xi,vortex_first,vortex_last_before,vortex_err,vortex_err_sampling,vortex_err_criterion,vortex_err_calibration,force_first,force_last_before,force_err,force_err_sampling,force_err_criterion,force_err_calibration,velocity_first,velocity_last_before,velocity_err,velocity_err_sampling,velocity_err_criterion,velocity_err_calibration
+08291714_scan_k_defect,72,4.307,0.663,0.642,0.174,0.006,0.171,0.033,0.545,0.527,0.029,0.005,0.010,0.027,0.587,0.573,0.030,0.004,0.004,0.029
+08291746_scan_k_defect,77,5.146,0.452,0.447,0.023,0.002,0.000,0.023,0.437,0.422,0.027,0.004,0.015,0.022,0.452,0.447,0.023,0.002,0.006,0.023
+08291752_scan_k_defect,82,5.733,0.385,0.358,0.021,0.008,0.005,0.019,0.385,0.358,0.045,0.008,0.040,0.019,0.404,0.389,0.056,0.004,0.053,0.020
+08291758_scan_k_defect,88,5.833,0.369,0.348,0.020,0.006,0.007,0.018,0.369,0.348,0.021,0.006,0.007,0.018,0.394,0.371,0.021,0.006,0.004,0.020
+08291809_scan_k_defect,100,6.354,0.285,0.271,0.017,0.004,0.009,0.014,0.336,0.316,0.026,0.006,0.019,0.017,0.243,0.229,0.018,0.004,0.012,0.012
+08291816_scan_k_defect,104,6.393,0.280,0.268,0.017,0.004,0.010,0.014,0.280,0.268,0.018,0.004,0.011,0.014,0.207,0.193,0.021,0.004,0.018,0.010

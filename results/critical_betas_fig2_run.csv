@@ -1,0 +1,2 @@
+scan,power_mW,sigma_over_xi,vortex_first,vortex_last_before,vortex_err,vortex_err_sampling,vortex_err_criterion,vortex_err_calibration,force_first,force_last_before,force_err,force_err_sampling,force_err_criterion,force_err_calibration,velocity_first,velocity_last_before,velocity_err,velocity_err_sampling,velocity_err_criterion,velocity_err_calibration
+08301817_scan_k_defect,,nan,0.377,0.376,0.022,0.000,0.010,0.019,0.354,0.343,0.032,0.003,0.026,0.018,0.431,0.415,0.025,0.005,0.013,0.022

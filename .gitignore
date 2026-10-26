@@ -1,0 +1,71 @@
+# --- Experimental data (about 24 GB) ---------------------------------------
+Data_defect/*
+# ... except the small result tables
+!Data_defect/
+!Data_defect/*/
+Data_defect/*/*
+!Data_defect/*/critical_mach_vs_defect_size.txt
+*.npy
+*.npz
+*.tiff
+*.tif
+*.pkl
+*.pickle
+*.svg
+
+# --- Regenerable outputs ----------------------------------------------------
+cache/
+figures/
+
+# --- Manuscript under review and reference papers (private) -----------------
+paper/
+references/
+*.pdf
+
+# --- Private working notes --------------------------------------------------
+CLAUDE.md
+
+# --- Python / editor --------------------------------------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+.vscode/
+
+# --- LaTeX build files ------------------------------------------------------
+_build/
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# --- Claude Code (local settings, memory, handoff notes) ---------------------
+.claude/
+CLAUDE.local.md
+CLAUDE.md
+.mcp.json
+
+# --- LaTeX sources wherever they are (manuscript is private) -----------------
+*.tex
+*.bib
+*.bst
+*.cls
+*.sty
+*.bbx
+*.cbx
+*.dvi
+*.nav
+*.snm
+*.vrb
+*.run.xml
+*-blx.bib
+
+# --- Drafts of replies to referees / co-authors -------------------------------
+mail_*.md
+reponse_*.md
