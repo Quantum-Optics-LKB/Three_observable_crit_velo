@@ -6,6 +6,9 @@ Analysis code accompanying
 > *Three-observable measurement of the critical velocity in a paraxial superfluid of light flowing past a mobile impurity*
 > (SciPost Physics, submitted).
 
+ 
+**Data:** Zenodo, DOI/link: soon.
+
 The critical Mach number `beta_c` of the superfluid-to-dissipative transition is extracted from three observables
 measured simultaneously on the same runs:
 
