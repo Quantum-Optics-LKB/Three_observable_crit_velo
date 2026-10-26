@@ -93,7 +93,3 @@ The same three-successive-points rule is used for all observables (`supervelo/th
 | Impurity velocity | `Delta v_i / c_s - beta` (3-point median filter) exceeds its local sub-critical level (median over `beta - 0.25 ... beta - 0.03`) by `0.04 c_s`, for three successive points |
 
 Camera glitches listed in `supervelo/params.py` (`BAD_FRAMES`) are ignored.
-
-Uncertainties combine in quadrature (i) the sampling gap in `beta` around the onset, (ii) the spread of `beta_c` when the
-threshold is varied (force 5-15 %, velocity 0.75-1.5 times the threshold, vortex 1-3 images and 5-20 % density), and
-(iii) an **assumed** 5 % relative uncertainty on `c_s` (`--cs-rel-error`), to be replaced by the measured value.
